@@ -24,4 +24,4 @@ Dashboard interativo com análise completa de vendas de uma empresa fictícia de
 - Pico de faturamento em julho de 2022 com R$ 19.497
 
 ## Preview
-![Dashboard](dashboard.png)
+![Dashboard](Captura de tela 2026-03-30 204019.png)
